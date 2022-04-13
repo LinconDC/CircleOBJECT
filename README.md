@@ -1,0 +1,2 @@
+# CircleOBJECT
+Static Members - Exercise
